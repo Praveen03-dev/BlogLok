@@ -15,4 +15,6 @@ Thumbs.db
 .DS_Store
 12MegaBlog/.env
 
+.env
+
 
