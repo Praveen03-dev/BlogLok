@@ -1,11 +1,11 @@
 import React from 'react'
-import logoImage from '../assets/logo.png'
+import LogoImage from '../assets/Logo.png'
 
 function Logo({width = '100px'}) {
   return (
     <div>
       <img 
-        src={logoImage} 
+        src={LogoImage} 
         alt="Your Logo"
         style={{ width }}
         className="object-contain h-auto" // this ensures image maintains its aspect ratio
